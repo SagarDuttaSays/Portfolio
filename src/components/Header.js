@@ -14,7 +14,9 @@ function Header() {
                 </ul>
             </nav>
             <div className="profile">
+                <div className="dp-image">
                 <img src={process.env.PUBLIC_URL + '/display-image.jpg'} alt="Profile" className="profile-img" />
+                </div>
                 <div className="profile-text">
                     <h2 className="my-name">SAGAR DUTTA</h2>
                     <h5>Full-Stack Developer | Designer | Content Writer</h5>
@@ -35,19 +37,19 @@ function Header() {
                 <div className="lang">
                     <h4>Programming languages</h4><br/>
                     <div className="row">
-                    <div className="col-3">
+                    <div className="col-2">
                         <img src={process.env.PUBLIC_URL+'/icons/java.png'} alt="language" style={{borderRadius: "100%", width: "50px"}}/>   
                         <h6>Java</h6>
                     </div>
-                    <div className="col-3">
+                    <div className="col-2">
                     <img src={process.env.PUBLIC_URL+'/icons/js.png'} alt="language" style={{borderRadius: "100%", width: "50px"}}/>
                         <h6>Javascript</h6>
                     </div>
-                    <div className="col-3">
+                    <div className="col-2">
                         <img src={process.env.PUBLIC_URL+'/icons/go.png'} alt="language" style={{borderRadius: "100%", width: "50px"}}/>
                         <h6>Golang</h6>
                     </div>
-                    <div className="col-3">
+                    <div className="col-2">
                         <img src={process.env.PUBLIC_URL+'/icons/py.png'} alt="language" style={{borderRadius: "100%", width: "50px"}}/>
                         <h6>Python</h6>
                     </div>
@@ -85,19 +87,19 @@ function Header() {
                 <div className="webdev">
                     <h4>Web Development</h4><br/>
                     <div className="row">
-                    <div className="col-3">
+                    <div className="col-2">
                         <img src={process.env.PUBLIC_URL+'/icons/node.png'} alt="webdev" style={{borderRadius: "100%", width: "50px"}}/>
                         <h6>NodeJS</h6>
                     </div>
-                    <div className="col-3">
-                        <img src={process.env.PUBLIC_URL+'/icons/express.png'} alt="webdev" style={{borderRadius: "100%", width: "50px"}}/>
+                    <div className="col-2">
+                        <img src={process.env.PUBLIC_URL+'/icons/express.png'} alt="webdev" style={{borderRadius: "100%", width: "45px"}}/>
                         <h6>ExpressJS</h6>
                     </div>
-                    <div className="col-3">
-                        <img src={process.env.PUBLIC_URL+'/icons/next.png'} alt="webdev" style={{borderRadius: "100%", width: "50px"}}/>
+                    <div className="col-2">
+                        <img src={process.env.PUBLIC_URL+'/icons/next.png'} alt="webdev" style={{borderRadius: "100%", width: "40px"}}/>
                         <h6>NextJS</h6>
                     </div>
-                    <div className="col-3">
+                    <div className="col-2">
                         <img src={process.env.PUBLIC_URL+'/icons/react.png'} alt="webdev" style={{borderRadius: "100%", width: "50px"}}/>
                         <h6>ReactJS</h6>
                     </div>
@@ -106,11 +108,11 @@ function Header() {
                 <div className="db">
                     <h4>Databases</h4>
                     <div className="row">
-                    <div className="col-6">
+                    <div className="col-2">
                         <img src={process.env.PUBLIC_URL+'/icons/sql.png'} alt="db" style={{borderRadius: "100%", width: "50px"}}/>
                         <h6>MySQL</h6>
                     </div>
-                    <div className="col-6">
+                    <div className="col-2">
                         <img src={process.env.PUBLIC_URL+'/icons/mongo.png'} alt="db" style={{borderRadius: "100%", width: "50px"}}/>
                         <h6>MongoDB</h6>
                     </div>

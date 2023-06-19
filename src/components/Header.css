@@ -1,6 +1,6 @@
 .mainBody {
     background-color: #C19A6B;
-    height: 640px;
+    height: 700px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 600;
 }
@@ -33,6 +33,12 @@ ul>li>a:hover {
     border: 10px solid black;
     border-radius: 100%;
     width: 300px;
+    transition-duration: 0.1s;
+
+}
+.profile-img:hover {
+    border: 0;
+    width: 310px;
 }
 .about {
     background-color: #F2D2BD;
@@ -76,6 +82,11 @@ ul>li>a:hover {
     border: 5px solid black;
     padding: 10px;
     background-color: #F1DEC9;
+    transition-duration: 0.1s;
+}
+.pj:hover {
+    border: 2px solid black;
+    padding: 5px;
 }
 .pj > button > a {
     color: black;

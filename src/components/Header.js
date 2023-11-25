@@ -45,7 +45,7 @@ function Header() {
                         <td>VIT Bhopal University</td>
                         <td>B.Tech.(Computer Science & Engineering with specialization in Health Informatics)</td>
                         <td>2024</td>
-                        <td>9.10 CGPA</td>
+                        <td>91.0%</td>
                     </tr>
                     <tr>
                         <td>Ramanujan Public School</td>

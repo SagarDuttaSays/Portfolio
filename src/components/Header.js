@@ -31,6 +31,25 @@ function Header() {
             <p>Overall, I am a driven and curious individual with a strong academic track record and a keen interest in leveraging technology for healthcare advancements. I am excited to continue my journey as a full-stack developer and contribute to the ever-evolving field of IT in healthcare, making a positive impact on people's lives.</p>
             </div>
           </div>
+          <div id="education" className="education">
+            <h2>EDUCATION</h2>
+            <div className='container'>
+                <table>
+                    <tr>
+                        <th>Institute</th>
+                        <th>Course</th>
+                        <th>Year of Passing</th>
+                        <th>Grades</th>
+                    </tr>
+                    <tr>
+                        <td>VIT Bhopal University</td>
+                        <td>B.Tech.(Computer Science & Engineering with specialization in Health Informatics)</td>
+                        <td>2024</td>
+                        <td>9.10 CGPA</td>
+                    </tr>
+                </table>
+            </div>
+          </div>
           <div id="skills" className="skills">
             <h2>SKILLS</h2>
             <div className="container">

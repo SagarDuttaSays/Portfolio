@@ -48,6 +48,14 @@ ul>li>a:hover {
    padding-top: 100px;
    padding-bottom: 20px;
 }
+.education {
+    background-color: antiquewhite;
+    padding-bottom: 50px;
+}
+.education >h2 {
+    padding-top: 100px;
+    padding-bottom: 20px;
+ }
 .skills {
     background-color: #E5AA70;
     padding-bottom: 50px;

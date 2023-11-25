@@ -225,7 +225,7 @@ function Header() {
                 <div className=" container">
                 <p>&copy; Sagar Dutta 2023</p>
                 <div className="contact">
-                    <h6><a href='https://goo.gl/maps/GJMbWF8r69Mcvcjc8'><img src={process.env.PUBLIC_URL+'/icons/add.png'} alt="webdev" style={{borderRadius: "100%", width: "50px"}}/></a>  <a href="tel:893-490-2760"><img src={process.env.PUBLIC_URL+'/icons/call.png'} alt="webdev" style={{borderRadius: "100%", width: "50px"}}/></a>  <a href="mailto:duttasagar086@gmail.com"><img src={process.env.PUBLIC_URL+'/icons/mail.png'} alt="webdev" style={{borderRadius: "100%", width: "50px"}}/></a></h6><br></br>
+                    <h6><a href='https://maps.app.goo.gl/FvkonCeK2o7hztzz9'><img src={process.env.PUBLIC_URL+'/icons/add.png'} alt="webdev" style={{borderRadius: "100%", width: "50px"}}/></a>  <a href="tel:893-490-2760"><img src={process.env.PUBLIC_URL+'/icons/call.png'} alt="webdev" style={{borderRadius: "100%", width: "50px"}}/></a>  <a href="mailto:duttasagar086@gmail.com"><img src={process.env.PUBLIC_URL+'/icons/mail.png'} alt="webdev" style={{borderRadius: "100%", width: "50px"}}/></a></h6><br></br>
                 </div>
                 </div>
             </div>

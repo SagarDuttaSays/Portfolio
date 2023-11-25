@@ -42,7 +42,9 @@ function Header() {
                         <th>Grades</th>
                     </tr>
                     <tr>
-                        <td>B.Tech.(Computer Science & Engineering with specialization in Health Informatics)</td>
+                        <td>B.Tech.<br/>
+                        (Computer Science & Engineering with <br/>
+                         specialization in Health Informatics)</td>
                         <td>VIT Bhopal University</td>
                         <td>2024</td>
                         <td>91.0%</td>

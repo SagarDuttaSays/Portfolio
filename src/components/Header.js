@@ -36,27 +36,26 @@ function Header() {
             <div className='container'>
                 <table>
                     <tr>
-                        <th>Institute</th>
                         <th>Course</th>
+                        <th>Institute</th>
                         <th>Year of Passing</th>
                         <th>Grades</th>
                     </tr>
                     <tr>
-                        <td>VIT Bhopal University</td>
                         <td>B.Tech.(Computer Science & Engineering with specialization in Health Informatics)</td>
+                        <td>VIT Bhopal University</td>
                         <td>2024</td>
                         <td>91.0%</td>
                     </tr>
                     <tr>
-                        <td>Ramanujan Public School</td>
                         <td>Class XII</td>
+                        <td>Ramanujan Public School</td>
                         <td>2019</td>
                         <td>94.8%</td>
                     </tr>
                     <tr>
-                        <td>
-                            Bishop Johnson School & College</td>
                         <td>Class X</td>
+                        <td>Bishop Johnson School & College</td>
                         <td>2017</td>
                         <td>91.16%</td>
                     </tr>

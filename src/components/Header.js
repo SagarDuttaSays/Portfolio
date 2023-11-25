@@ -47,6 +47,19 @@ function Header() {
                         <td>2024</td>
                         <td>9.10 CGPA</td>
                     </tr>
+                    <tr>
+                        <td>Ramanujan Public School</td>
+                        <td>Class XII</td>
+                        <td>2019</td>
+                        <td>94.8%</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Bishop Johnson School & College</td>
+                        <td>Class X</td>
+                        <td>2017</td>
+                        <td>91.16%</td>
+                    </tr>
                 </table>
             </div>
           </div>
